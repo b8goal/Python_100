@@ -20,7 +20,7 @@ elif PlanetNum == 8:
 
 print(SequenceOfPlanet)
 
-planets = ['수성', '금성', '지구', '화성', '목성', '토성', '천왕성', '해왕성']
+# planets = ['수성', '금성', '지구', '화성', '목성', '토성', '천왕성', '해왕성']
 
-n = int(input()) -1
-print(planets[n])
+# n = int(input()) -1
+# print(planets[n])
